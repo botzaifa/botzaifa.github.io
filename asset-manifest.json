@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d0e31176.css",
+    "main.js": "/static/js/main.f1387c25.js",
+    "static/js/415.55fc2127.chunk.js": "/static/js/415.55fc2127.chunk.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/about.png": "/static/media/about.632a7d2c27920b4fe678.png",
+    "static/media/marine.png": "/static/media/marine.5eb36bcf87ef4c763c0d.png",
+    "static/media/home-main.png": "/static/media/home-main.cd0239bbdab9adf923a3.png",
+    "static/media/adgen.png": "/static/media/adgen.e75b9617efcb4c7226f6.png",
+    "static/media/news.png": "/static/media/news.68b654de2c8d9ce439ce.png",
+    "static/media/Resume_Huzi.pdf": "/static/media/Resume_Huzi.290afb089ed4f0495536.pdf",
+    "static/media/text.png": "/static/media/text.7bb3ff7a547cc515f4ff.png",
+    "static/media/budget.png": "/static/media/budget.70c4018a0253114e5077.png",
+    "static/media/logo.png": "/static/media/logo.ab5354754dd5f21e6d62.png",
+    "static/media/sentiment.png": "/static/media/sentiment.b6d3a0360020a723ea3c.png",
+    "static/media/movie.png": "/static/media/movie.405300b53a07f93501a6.png",
+    "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/index.html",
+    "main.d0e31176.css.map": "/static/css/main.d0e31176.css.map",
+    "main.f1387c25.js.map": "/static/js/main.f1387c25.js.map",
+    "415.55fc2127.chunk.js.map": "/static/js/415.55fc2127.chunk.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0e31176.css",
+    "static/js/main.f1387c25.js"
+  ]
+}
